@@ -58,3 +58,9 @@ color: #ffffff;
 text-decoration: none;
 font-family: 'Open Sans', sans-serif;
 }
+
+@media only screen and (max-width: 600px) {
+nav{
+  width:50vw;
+}
+}
